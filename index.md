@@ -8,4 +8,4 @@ Testing
 Testing
 ```
 
-[visit](https://paljordawa.com)
+[visit](https://tibetaction.net)
