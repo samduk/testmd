@@ -8,4 +8,4 @@ Testing
 Testing
 ```
 
-[visit](https://tibetaction.net)
+[visit Melhong](http://melhong.com)
