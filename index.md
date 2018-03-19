@@ -55,7 +55,7 @@ There are several layers of network that a query goes through back and forth whe
 To see how many hops(steps) it takes to go to website, you can use a traceroute website to see the number of hops such as http://network-tools.com/
 
 Sample Traceroute from Dharamsala to Cybersuperhero.net
- 
+ ![traceroute](https://s3.amazonaws.com/trainig.pics/1.png)
 
  
 **For the purpose of understanding this, let’s say, you are getting your internet/data service from China Mobile.**
@@ -84,12 +84,16 @@ If you want to look for IP addresses of other websites that you visit, you can g
 Let’s say you want to check the IP address of a website [korawa](https://Korawa.com)
 
 * __Step 1__: Type the domain name of the website eg. korawa.com, gdqpzhx.com or any other website.
-  
 * __Step 2__: Type the characters on the right in the form
+
+ ![traceroute](https://s3.amazonaws.com/trainig.pics/Untitled.png)
  
 * __Step 3__: Click on Submit
- 
+
 * __Step 4__: Check your result.
+
+![traceroute](https://s3.amazonaws.com/trainig.pics/3.png)
+
   
 The result will show the website’s IP address, the web server and where it’s hosted with some other information.
  
@@ -434,39 +438,39 @@ EXPLAIN: Targeted Attacks will result in:
 8.	Compromised 	Mobile Phone
 
 EMPHASIZE: Based on the research most of the attack vectors targeting Tibetans use malware attachments.
-
+![traceroute](https://s3.amazonaws.com/trainig.pics/4.png)
  
 
 EXAMPLE 1: The fake Cheng Li.
 
- 
+ ![traceroute](https://s3.amazonaws.com/trainig.pics/5.png)
 
 EXPLAIN: 1) Email has been targeted using personal as well as an emotional appeal in order to make the recipient want to open it. 2) Sender is a real person who is distinguished in his field and is very likely to be traveling to China and interested in Tibet research.
 
 DEMONSTRATE: Search for and show Cheng Li’s online profile.
 
+![traceroute](https://s3.amazonaws.com/trainig.pics/6.png)
  
-
 EXPLAIN: The attachment has malware attached. However the malware was meant for attacking a computer using the Windows operating system.
 
 EMPHASIZE: These attacks are not always automated. In this case there is an actual person specifically behind this attack. Attackers can also adapt/change their strategy based on your response.
-
+![traceroute](https://s3.amazonaws.com/trainig.pics/7.png)
  
 And based on the email, this was the reply!
 
- 
+ ![traceroute](https://s3.amazonaws.com/trainig.pics/8.png)
 
 EXPLAIN: The malware was changed to work on a Mac computer, but in the end it didn't work. That the attacker tried to change the malware to work on a Mac shows intelligence as well resources behind the attacker i.e. they have the time and capability to correspond with Lhadon and change the malware based on that correspondence.
 
 EXAMPLE 2 - Android APK
 
 EXPLAIN: Even an Android APK file can be repurposed, especially if it was not downloaded from Google play or other verified app stores i.e. shared via email or other means.
-
+![traceroute](https://s3.amazonaws.com/trainig.pics/9.png)
  
 
 SHOW: Use the comparison snapshot of the legitimate APK and the malicious APK to show how the app was changed and more permissions were added.
- 
 
+ ![traceroute](https://s3.amazonaws.com/trainig.pics/10.png)
 
 Prevention and Detection of Malware
 
@@ -479,21 +483,12 @@ Every email message includes a block of text at the top that is referred to as t
 
 Gmail to display header:
 
-
+![traceroute](https://s3.amazonaws.com/trainig.pics/11.png)
  
-
- 
-
 Thunderbolt
 
-
+![traceroute](https://s3.amazonaws.com/trainig.pics/12.png)
    
-
-
-
-
-
-
 
 Step 1: Before checking headers, one can be a 30 second detective to figure out whether an email should be suspected.
 
@@ -508,10 +503,7 @@ What does a Header look like?
 
 Sample Header:
 
- 
-
-
-
+![traceroute](https://s3.amazonaws.com/trainig.pics/13.png)
 
 Header training Slides by Jakub Dalek:
 
@@ -530,17 +522,14 @@ ASK: What is a waterhole attack?
 EXPLAIN: This is a method of targeting sites which are likely to be visited by targets of interest. The attacker will compromise the site and inject JavaScript or HTML to redirect victims to additional malicious code or download malware onto the visitors device.
 
 EXAMPLE: An attacker understands that Tibetans will visit a website such as tibet.net or tibettimes.net frequently to access news about Tibet. As such, the attacker will focus on attacking the website itself to reach many people at once, rather than attacking each individual user one by one.
- 
+ ![traceroute](https://s3.amazonaws.com/trainig.pics/14.png)
 
 EXPLAIN: The attacker understands that he/she will not be able to target everyone, so instead looks at what the majority of people are using in terms of software and operating systems such as Internet Explorer and unpatched Windows or web browsers. As such, he/she understands that the group of people he is targeting are likely to have these vulnerabilities and will visit the website sometime during the period of time when the website is compromised.
  
-
+![traceroute](https://s3.amazonaws.com/trainig.pics/15.png)
 EXPLAIN: Based on the people being targeted, the attacker then finds a vulnerability/issue with the website and finds a way to compromise a website. After compromising the website, all the attacker needs to do is wait for the targeted people to visit the website. If they have the specific vulnerability/issue that the attacker has exploited, they will become infected just by visiting the website and viewing the infected page. This is a lot less effort than trying to go after each person individually and can result in many more successful infections for a lot less effort!
  
-
-
-
-
+![traceroute](https://s3.amazonaws.com/trainig.pics/16.png)
 
 Solutions to checking websites and issues with the website slides
 
@@ -771,18 +760,29 @@ Let’s go through some of the permissions that we have given WeChat when (if) w
 
 WeChat will have access to:
 
+![traceroute](https://s3.amazonaws.com/trainig.pics/17.png)
  
 WeChat will know what other apps are running on our phone.
  
 WeChat will know what other accounts we have registered on our phone and has the ability to remove or add accounts
+
+![traceroute](https://s3.amazonaws.com/trainig.pics/18.png)
  
 It can read all our contact information and modify them
+
+![traceroute](https://s3.amazonaws.com/trainig.pics/19.png)
  
 WeChat knows where exactly or approximately we are.
+
+ ![traceroute](https://s3.amazonaws.com/trainig.pics/20.png)
  
 WeChat can access and read our regular text message or MMS.
+
+ ![traceroute](https://s3.amazonaws.com/trainig.pics/21.png)
  
 WeChat can access contents of our USB storage or SD cards and has the ability to modify or delete files in them.
+
+ ![traceroute](https://s3.amazonaws.com/trainig.pics/22.png)
  
 WeChat can access our phone status, our call logs including who we have been contacting through our regular phone.
 The above are some of the permissions that we have given WeChat while installing it.
