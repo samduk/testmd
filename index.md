@@ -6,20 +6,20 @@
 
 **Fall 2016**
 
-* Section 1: Understanding how the Internet works, basic concepts and best practices
+* **Section 1** : Understanding how the Internet works, basic concepts and best practices
 
-* Section 2: Understanding risks, vulnerabilities and capacities
+* **Section 2** : Understanding risks, vulnerabilities and capacities
 
-* Section 3: Malware and targeted malware - problems and solutions
+* **Section 3** : Malware and targeted malware - problems and solutions
 
-* Section 4: Targeted website attacks - problems and solutions
+* **Section 4** : Targeted website attacks - problems and solutions
 
-* Section 5: Responding to compromises & mitigation
+* **Section 5** : Responding to compromises & mitigation
 
-* Section 6: Mobile security - basic device security & app security
+* **Section 6** : Mobile security - basic device security & app security
 
  
-Section 1 – Understanding how the Internet works, basic concepts and best practices
+## Section 1 – Understanding how the Internet works, basic concepts and best practices ##
  
 I. Internet 101
 
@@ -415,7 +415,7 @@ Threat	Vulnerability	Capacity
 Arrest and confiscation of mobile phone by authorities	Participating in direct action protest	Password lock screen
 Encrypted phone
  	 	 
-Section 3: Malware and targeted malware - problems and solutions
+## Section 3 ##: Malware and targeted malware - problems and solutions
 
 DEMONSTRATION:
 
@@ -546,7 +546,7 @@ https://docs.google.com/presentation/d/1I0MWjpwZrVRGblPtBsFZ0Z3AUF9rnTnA4eJmR6ZO
 
 
   
-Section 5: Responding to Compromises & Mitigation
+## Section 5 ##: Responding to Compromises & Mitigation
 
 There is no ultimate security and especially when you work for the Tibet movement or communicate with contacts, there is a chance they you might be compromised at a certain point in time.
 
