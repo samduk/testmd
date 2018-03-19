@@ -4,7 +4,7 @@
 
 ## Version 1.0 ##
 
-Fall 2016
+**Fall 2016**
 
 * Section 1: Understanding how the Internet works, basic concepts and best practices
 
@@ -624,7 +624,7 @@ Surveillance can happen at different platforms - from monitoring street activiti
 Authorities use sophisticating internet and wireless technology to censor, monitor, collect and retain communication data. Many governments and law enforcement agencies monitor online communication including location of individuals and groups.
 
 > The reach of these technologies is astonishingly broad: governments can listen in on cell phone calls, use voice recognition to scan mobile networks, read emails and text messages, censor web pages, track a citizen’s every movement using GPS, and can even change email contents while en route to a recipient. Some tools are installed using the same type of malicious malware and spyware used by online criminals to steal credit card and banking information. They can secretly turn on webcams built into personal laptops and microphones in cell phones not being used. And all of this information is filtered and organized on such a massive scale that it can be used to spy on every person in an entire country.
-		Electronic Frontier Foundation (EFF)
+> > Electronic Frontier Foundation (EFF)
 		
 		
 > (EFF is a well known international non-profit digital rights group.)
