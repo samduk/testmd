@@ -516,7 +516,7 @@ Checking files for problems slides:
 
 https://docs.google.com/a/tibetaction.net/presentation/d/1RbpUqiqX3dhmK4-FdudN_-q1597fC3ugMvG9WFOdzyQ/edit?usp=sharing
   
-Section 4: Targeted Website Attacks - Problems & Solutions
+## Section 4 ##: Targeted Website Attacks - Problems & Solutions
 
 In this exercise we will introduce concepts around how a website is compromised so as to attack the visitors to the site. 
 
