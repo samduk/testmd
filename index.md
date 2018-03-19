@@ -348,7 +348,7 @@ Emphasize: It is good to use a malware program, as a basic safety precaution, to
 
  
 
-Section 2: Understanding Risk, Vulnerabilities and Capacities
+## Section 2 ## : Understanding Risk, Vulnerabilities and Capacities
  
 In this exercise we will introduce concepts around identifying risks and threats and have each participant identify specific threats, vulnerabilities and mitigation strategies.
 
@@ -670,7 +670,7 @@ Using Wireshark
   
 	 	 	
 
-Section 6: Phone Security - Basic Mobile Security & App Security
+## Section 6 ## : Phone Security - Basic Mobile Security & App Security 
 
 EXERCISE: Risk Race (5-10 mins) - start this section immediately with this exercise, before talking at all about mobile security.
 
