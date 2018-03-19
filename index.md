@@ -69,7 +69,7 @@ Sample Traceroute from Dharamsala to Cybersuperhero.net
 * __Step 4__: The ISP checks its Domain Name Server or DNS, in this case China’s root server for the domain, www.aliyun.com’s IP address which is 42.120.158.67
  DNS is the system that connects the domain name, www.aliyun.com, to it’s unique IP address and from there on, the request is transmitted along with the IP address. It’s like a phone book. There are only limited root servers in the world who have ultimate control over the DNS and China is running its own. ISPs could also have their own local DNS
  
-* Step 5: This step may not apply for websites hosted on Chinese server. For all other websites, the request goes through the Internet Backbone. This is the physical bundle of fiber optic wires connecting the global network, the central network made of many large networks which are interconnected with each other.
+* __Step 5__: This step may not apply for websites hosted on Chinese server. For all other websites, the request goes through the Internet Backbone. This is the physical bundle of fiber optic wires connecting the global network, the central network made of many large networks which are interconnected with each other.
  
 * __Step 6__: The request is then sent to the Web Server that hosts the website. (In this case, Aliyun has it’s own server)
  
@@ -102,6 +102,7 @@ How the Internet works
 http://www.wimp.com/internetworks/
 Additional resources:
 How the DNS works
+
 http://youtu.be/2ZUxoi7YNgs *This little cartoon illustrating how DNS works is likely too in-depth for our basic trainings but a good resource to have on-hand.
  
  
@@ -125,7 +126,7 @@ Show: Tibet Action’s HTTPS video with Postcard to explain HTTP vs HTTPS
  
 Activity: Postcard - Get a few volunteers and have one of them write a message on the postcard and address it to one of the other volunteers. Make sure they write their return name and address too. Have the “sender” and “receiver” stand at opposite ends of the room. Based on the same ideas presented in the Internet 101 video, explain how  there are many stops along the way when you want to send a simple email message from one person to another. Have the people in the middle of the room be the hops along the way and have them pass the postcard from one to another and read the message out loud as they do. Emphasize: Not using HTTPS on either side of the transaction means that your message is as open to be read/monitored as if it was written on a postcard.
  
-1) SSL Encryption
+__1) SSL Encryption__
  
 HTTP vs HTTPS - This classic explanation using a metaphor of roads/highways is general enough for us to talk about how information travels “in the clear”, or through encrypted channels, and why this matters - i.e. transmitting passwords securely, having private communications - emails, chat messages etc. - as well as the privacy of what we are actually viewing online.
  
@@ -137,7 +138,7 @@ Explain: There are two ways to send information online. One way is to send and r
  
 The Internet was originally designed to be transparent and open and was built only with open HTTP roads where everyone and anyone could see all the information traveling to and from a destination. But as more and more commerce and private communications began to take place on the Internet, HTTPS roads (SSL capability) were built.
                                 	
-2) Identification
+__2) Identification__
  
 Explain: The second purpose of SSL or HTTPS is to verify that a website is what it seems to be.
  
