@@ -24,9 +24,9 @@
  
 ### I. Internet 101
 
-Goals: 
--	To understand the basics of how the internet works and understand what each of the layers in the network does.
--	To know the process from when you send a request to open a website to how it is finally displayed on your browser.
+**Goals:**
+ -	To understand the basics of how the internet works and understand what each of the layers in the network does.
+  -	To know the process from when you send a request to open a website to how it is finally displayed on your browser.
 
 Key concepts: Even a simple act such as typing the address of a website you want to see into your computer browser means information is transmitted, in many steps, to many different people/authorities often around the world. At each step along the way, information about you is visible to anyone on the network between you and the information you are requesting.
 
@@ -108,9 +108,9 @@ http://youtu.be/2ZUxoi7YNgs *This little cartoon illustrating how DNS works is l
  
 ### II. HTTP and HTTPS
 
-Goals: 
+**Goals:**
 -	To understand the basics and importance of SSL encryption on the Internet.
--	To know how to look for SSL verification when visiting websites online. 
+-	To know how to look for SSL verification when visiting websites online.
 
 Key concepts: SSL is meant to provide both privacy and verification of website identities online.
  
@@ -154,7 +154,7 @@ You can show participants EFF’s HTTPS Everywhere and they can download if they
  
 ### III. Browsers
 
-Goals: 
+**Goals:**
 -	Understand how a browser window can make you vulnerable to viruses, online attacks and spying.
 -	Understand how common browser features, like cookies, can be harmful and learn a few main mitigation tools and tactics.
 
@@ -220,7 +220,7 @@ Recommendation: If you don’t want anyone to know about the websites you have v
 
 ### IV. Understanding OS
 
-Goals: 
+**Goals:** 
 -	Understand the key differences between Windows, Linux and Mac OS as they relate to security threats.
 
 
@@ -239,7 +239,7 @@ Explain: Malware looks for vulnerabilities and security holes in a computer and 
  
 ### V. Email
 
-Goals: 
+**Goals:**
 -	Understand that security should be a key priority for the choice of email account
 -	Understand the security features, and main attack vectors, of Gmail.
 
