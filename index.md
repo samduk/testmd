@@ -455,6 +455,7 @@ DEMONSTRATE: Search for and show Cheng Li’s online profile.
 EXPLAIN: The attachment has malware attached. However the malware was meant for attacking a computer using the Windows operating system.
 
 EMPHASIZE: These attacks are not always automated. In this case there is an actual person specifically behind this attack. Attackers can also adapt/change their strategy based on your response.
+
 ![traceroute](https://s3.amazonaws.com/trainig.pics/7.png)
  
 And based on the email, this was the reply!
@@ -466,6 +467,7 @@ EXPLAIN: The malware was changed to work on a Mac computer, but in the end it di
 EXAMPLE 2 - Android APK
 
 EXPLAIN: Even an Android APK file can be repurposed, especially if it was not downloaded from Google play or other verified app stores i.e. shared via email or other means.
+
 ![traceroute](https://s3.amazonaws.com/trainig.pics/9.png)
  
 
@@ -523,11 +525,13 @@ ASK: What is a waterhole attack?
 EXPLAIN: This is a method of targeting sites which are likely to be visited by targets of interest. The attacker will compromise the site and inject JavaScript or HTML to redirect victims to additional malicious code or download malware onto the visitors device.
 
 EXAMPLE: An attacker understands that Tibetans will visit a website such as tibet.net or tibettimes.net frequently to access news about Tibet. As such, the attacker will focus on attacking the website itself to reach many people at once, rather than attacking each individual user one by one.
+
  ![traceroute](https://s3.amazonaws.com/trainig.pics/14.png)
 
 EXPLAIN: The attacker understands that he/she will not be able to target everyone, so instead looks at what the majority of people are using in terms of software and operating systems such as Internet Explorer and unpatched Windows or web browsers. As such, he/she understands that the group of people he is targeting are likely to have these vulnerabilities and will visit the website sometime during the period of time when the website is compromised.
  
 ![traceroute](https://s3.amazonaws.com/trainig.pics/15.png)
+
 EXPLAIN: Based on the people being targeted, the attacker then finds a vulnerability/issue with the website and finds a way to compromise a website. After compromising the website, all the attacker needs to do is wait for the targeted people to visit the website. If they have the specific vulnerability/issue that the attacker has exploited, they will become infected just by visiting the website and viewing the infected page. This is a lot less effort than trying to go after each person individually and can result in many more successful infections for a lot less effort!
  
 ![traceroute](https://s3.amazonaws.com/trainig.pics/16.png)
@@ -653,17 +657,11 @@ https://www.torproject.org/
 Orbot - VPN or a browser - Android based
 https://guardianproject.info/apps/orbot/
 
-
-
-
 Advanced Topics here:
 
 Using Network Monitors/firewalls:  Glasswire for windows, Little Snitch for Mac.
 Using Sysinternals for windows
 Using Wireshark
-
-  
-	 	 	
 
 ## Section 6 : Phone Security - Basic Mobile Security & App Security ##
 
