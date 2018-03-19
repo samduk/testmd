@@ -3,6 +3,7 @@
 # **A Tibet Action training guide for online security, understanding malware, securing your communications & mobile security.** #
 
 
+
 ## Version 1.0 ##
 
 **Fall 2016**
@@ -277,8 +278,8 @@ Gmail security settings:
 Ask: What is 2 step verification? If no response, explain the basic concept that to access your account you go through a 2 step verification process. The first step is to provide something that you know, which is your password, and the second step is to use something that only you have access to, which is your mobile device, to receive a code. These 2 steps help to verify that it’s really you. If you rely on only one step - like a password - it is not a truly secure method because, technically, anyone could “know” your password.
  
 Show: 2-step video if needed:
-https://www.youtube.com/watch?v=zMabEyrtPRg [English]
- 
+@[youtube](https://www.youtube.com/watch?v=zMabEyrtPRg) [English]
+
 ASK: Specifically in the Tibet movement, why do we use 2-step verification? What is the importance of this kind of security measure? [Tell stories of compromises we have seen in the past].
  
 Demonstrate: Log in with 2-step:
@@ -314,7 +315,7 @@ Emphasize: Use Google Drive – Use Google drive to preview rather than download
 B. Links
 
 Show: Think before you click! Tibet Action Video
-https://www.cybersuperhero.net/thinkbeforeyouclick/
+@[Cyber SuperHero](https://www.cybersuperhero.net/thinkbeforeyouclick/)
 
 Explain: Website links are shared through email, WeChat and even through a text messages. Some links can take you to unknown websites with malicious scripts running on them, and others can even automatically download malware to your computer without your knowledge.
  
