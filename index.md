@@ -808,8 +808,8 @@ By looking at what the app could do on our phone, including getting access to ou
 And if we are politically or socially active, then we can be monitored and may even put our contacts who are not active at risk for merely knowing us.
 
 APPS to install and show how to use:
-- Zom [Zom Install](https://zom.im/)
-- Orbot [Orbot Install](https://guardianproject.info/apps/orbot/)
+- Zom [Install](https://zom.im/)
+- Orbot [Install](https://guardianproject.info/apps/orbot/)
 
 
 
