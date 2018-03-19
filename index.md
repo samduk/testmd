@@ -411,8 +411,7 @@ Use the following sheet to fill in the threats, vulnerabilities and capacities b
 
 |Threat|Vulnerability|Capacity|
 |-----|-----------|----------|
-|Arrest and confiscation of mobile phone by authorities	|Participating in direct action protest	|Password lock screen
-Encrypted phone|
+|Arrest and confiscation of mobile phone by authorities	|Participating in direct action protest	|Password lock screen Encrypted phone|
 | | | |
 | | | |
 | | | |
