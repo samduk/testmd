@@ -348,7 +348,7 @@ Emphasize: It is good to use a malware program, as a basic safety precaution, to
 
  
 
-## Section 2 ## : Understanding Risk, Vulnerabilities and Capacities
+## Section 2  : Understanding Risk, Vulnerabilities and Capacities ##
  
 In this exercise we will introduce concepts around identifying risks and threats and have each participant identify specific threats, vulnerabilities and mitigation strategies.
 
@@ -415,7 +415,7 @@ Threat	Vulnerability	Capacity
 Arrest and confiscation of mobile phone by authorities	Participating in direct action protest	Password lock screen
 Encrypted phone
  	 	 
-## Section 3 ##: Malware and targeted malware - problems and solutions
+## Section 3 : Malware and targeted malware - problems and solutions ##
 
 DEMONSTRATION:
 
@@ -516,7 +516,7 @@ Checking files for problems slides:
 
 https://docs.google.com/a/tibetaction.net/presentation/d/1RbpUqiqX3dhmK4-FdudN_-q1597fC3ugMvG9WFOdzyQ/edit?usp=sharing
   
-## Section 4 ##: Targeted Website Attacks - Problems & Solutions
+## Section 4 : Targeted Website Attacks - Problems & Solutions ##
 
 In this exercise we will introduce concepts around how a website is compromised so as to attack the visitors to the site. 
 
@@ -546,7 +546,7 @@ https://docs.google.com/presentation/d/1I0MWjpwZrVRGblPtBsFZ0Z3AUF9rnTnA4eJmR6ZO
 
 
   
-## Section 5 ##: Responding to Compromises & Mitigation
+## Section 5 : Responding to Compromises & Mitigation ##
 
 There is no ultimate security and especially when you work for the Tibet movement or communicate with contacts, there is a chance they you might be compromised at a certain point in time.
 
@@ -670,7 +670,7 @@ Using Wireshark
   
 	 	 	
 
-## Section 6 ## : Phone Security - Basic Mobile Security & App Security 
+## Section 6 : Phone Security - Basic Mobile Security & App Security ##
 
 EXERCISE: Risk Race (5-10 mins) - start this section immediately with this exercise, before talking at all about mobile security.
 
