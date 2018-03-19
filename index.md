@@ -6,17 +6,17 @@
 
 Fall 2016
 
-Section 1: Understanding how the Internet works, basic concepts and best practices
+* Section 1: Understanding how the Internet works, basic concepts and best practices
 
-Section 2: Understanding risks, vulnerabilities and capacities
+* Section 2: Understanding risks, vulnerabilities and capacities
 
-Section 3: Malware and targeted malware - problems and solutions
+* Section 3: Malware and targeted malware - problems and solutions
 
-Section 4: Targeted website attacks - problems and solutions
+* Section 4: Targeted website attacks - problems and solutions
 
-Section 5: Responding to compromises & mitigation
+* Section 5: Responding to compromises & mitigation
 
-Section 6: Mobile security - basic device security & app security
+* Section 6: Mobile security - basic device security & app security
 
  
 Section 1 – Understanding how the Internet works, basic concepts and best practices
