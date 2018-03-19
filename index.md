@@ -30,18 +30,18 @@ Goals:
 Key concepts: Even a simple act such as typing the address of a website you want to see into your computer browser means information is transmitted, in many steps, to many different people/authorities often around the world. At each step along the way, information about you is visible to anyone on the network between you and the information you are requesting.
 
 Advanced prep:
-1. Wireshark - Capture the network traffic. (For advanced training, if needed)
-2. Etherape: To show a visual representation of all connections being made from local network.
+: 1. Wireshark - Capture the network traffic. (For advanced training, if needed)
+: 2. Etherape: To show a visual representation of all connections being made from local network.
  
 Show: Cyber Super Hero video (Tibetan Version)
  
-Question: What is an IP address?
-Explain: The concept of an Internet Protocol (IP) address using the example of a fixed street address for a house or business.
+> Question: What is an IP address?
+> > Explain: The concept of an Internet Protocol (IP) address using the example of a fixed street address for a house or business.
  
-Question: What is DNS(Domain Name System)?
-Explain: Use the example of a phonebook on your mobile device which automatically translates a name into a phone number while dialing.
+> Question: What is DNS(Domain Name System)?
+> > Explain: Use the example of a phonebook on your mobile device which automatically translates a name into a phone number while dialing.
  
-Question: How is a website displayed on your browser? How does your request fetch and bring the website back to you?
+> Question: How is a website displayed on your browser? How does your request fetch and bring the website back to you?
  
 [Based on the following steps, an activity can be arranged or explained depending on the audience.]
   
