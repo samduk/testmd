@@ -57,7 +57,7 @@ Sample Traceroute from Dharamsala to Cybersuperhero.net
  
 
  
-For the purpose of understanding this, let’s say, you are getting your internet/data service from China Mobile.
+**For the purpose of understanding this, let’s say, you are getting your internet/data service from China Mobile.**
  
 * __Step 1__ : You, the user, wants to open a website, aliyun.com from your computer/mobile phone. So you typed in the domain ‘aliyun.com’ in the browser and clicked on the button.
  
@@ -66,8 +66,7 @@ For the purpose of understanding this, let’s say, you are getting your interne
 * __Step 3__: Then, the request goes through the Internet Service Provider or the ISP, the companies that provide internet. (China Mobile is one of the major Chinese ISPs but there are also local ISPs or small players that distributes internet subscribed from these major ISPs at local level)
  
 * __Step 4__: The ISP checks its Domain Name Server or DNS, in this case China’s root server for the domain, www.aliyun.com’s IP address which is 42.120.158.67
- 
-DNS is the system that connects the domain name, www.aliyun.com, to it’s unique IP address and from there on, the request is transmitted along with the IP address. It’s like a phone book. There are only limited root servers in the world who have ultimate control over the DNS and China is running its own. ISPs could also have their own local DNS
+ DNS is the system that connects the domain name, www.aliyun.com, to it’s unique IP address and from there on, the request is transmitted along with the IP address. It’s like a phone book. There are only limited root servers in the world who have ultimate control over the DNS and China is running its own. ISPs could also have their own local DNS
  
 * Step 5: This step may not apply for websites hosted on Chinese server. For all other websites, the request goes through the Internet Backbone. This is the physical bundle of fiber optic wires connecting the global network, the central network made of many large networks which are interconnected with each other.
  
@@ -81,7 +80,7 @@ Each of these channels are run by various companies and governments and have the
  
 If you want to look for IP addresses of other websites that you visit, you can go to getit.com.
  
-Let’s say you want to check the IP address of a website Korawa.com
+Let’s say you want to check the IP address of a website [korawa](https://Korawa.com)
 
 * __Step 1__: Type the domain name of the website eg. korawa.com, gdqpzhx.com or any other website.
   
