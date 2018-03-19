@@ -813,7 +813,3 @@ Orbot - https://guardianproject.info/apps/orbot/
 
 
 
-[visit Melhong](http://melhong.com)
-
-
-[Leave a Message forms ](https://dawapaljor.github.io/testmd/form.html)
