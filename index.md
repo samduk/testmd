@@ -368,13 +368,13 @@ Activity: Have the group split into pairs. Each pair needs to come up with at le
  
 Use these 2 examples.
  
-Threat	Vulnerability	Capacity
-Office Break in	Poor quality locks on the doors	Install better locks.
-Alarm system
+| Threat|Vulnerability|Capacity
+|------|----------|-----------|
+|Office Break in|Poor quality locks on the doors| Install better locks. Alarm system|
  
-Threat	Vulnerability	Capacity
-Arrest and confiscation of mobile phone by authorities	Participating in direct action protest	Password lock screen
-Encrypted phone
+|Threat	|Vulnerability	|Capacity
+|---------|-----------|---------|
+|Arrest and confiscation of mobile phone by authorities|Participating in direct action protest|Password lock screen Encrypted phone|
  
  
  
@@ -409,9 +409,15 @@ Use the following sheet to fill in the threats, vulnerabilities and capacities b
 
 
 
-Threat	Vulnerability	Capacity
-Arrest and confiscation of mobile phone by authorities	Participating in direct action protest	Password lock screen
-Encrypted phone
+|Threat|Vulnerability|Capacity|
+|-----|-----------|----------|
+|Arrest and confiscation of mobile phone by authorities	|Participating in direct action protest	|Password lock screen
+Encrypted phone|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
  	 	 
 ## Section 3 : Malware and targeted malware - problems and solutions ##
 
