@@ -59,23 +59,23 @@ Sample Traceroute from Dharamsala to Cybersuperhero.net
  
 For the purpose of understanding this, let’s say, you are getting your internet/data service from China Mobile.
  
-: Step 1: You, the user, wants to open a website, aliyun.com from your computer/mobile phone. So you typed in the domain ‘aliyun.com’ in the browser and clicked on the button.
+* Step 1: You, the user, wants to open a website, aliyun.com from your computer/mobile phone. So you typed in the domain ‘aliyun.com’ in the browser and clicked on the button.
  
-: Step 2: From here the request first go through your Local Area Network or the LAN, the router at your home or at the cyber cafes you visit, in the public library or at the hotels or restaurants, etc. that relays internet connection to your device.
+* Step 2: From here the request first go through your Local Area Network or the LAN, the router at your home or at the cyber cafes you visit, in the public library or at the hotels or restaurants, etc. that relays internet connection to your device.
         	
-: Step 3: Then, the request goes through the Internet Service Provider or the ISP, the companies that provide internet. (China Mobile is one of the major Chinese ISPs but there are also local ISPs or small players that distributes internet subscribed from these major ISPs at local level)
+* Step 3: Then, the request goes through the Internet Service Provider or the ISP, the companies that provide internet. (China Mobile is one of the major Chinese ISPs but there are also local ISPs or small players that distributes internet subscribed from these major ISPs at local level)
  
-: Step 4: The ISP checks its Domain Name Server or DNS, in this case China’s root server for the domain, www.aliyun.com’s IP address which is 42.120.158.67
+* Step 4: The ISP checks its Domain Name Server or DNS, in this case China’s root server for the domain, www.aliyun.com’s IP address which is 42.120.158.67
  
 DNS is the system that connects the domain name, www.aliyun.com, to it’s unique IP address and from there on, the request is transmitted along with the IP address. It’s like a phone book. There are only limited root servers in the world who have ultimate control over the DNS and China is running its own. ISPs could also have their own local DNS
  
-: Step 5: This step may not apply for websites hosted on Chinese server. For all other websites, the request goes through the Internet Backbone. This is the physical bundle of fiber optic wires connecting the global network, the central network made of many large networks which are interconnected with each other.
+* Step 5: This step may not apply for websites hosted on Chinese server. For all other websites, the request goes through the Internet Backbone. This is the physical bundle of fiber optic wires connecting the global network, the central network made of many large networks which are interconnected with each other.
  
-: Step 6: The request is then sent to the Web Server that hosts the website. (In this case, Aliyun has it’s own server)
+* Step 6: The request is then sent to the Web Server that hosts the website. (In this case, Aliyun has it’s own server)
  
-: Step 7: The server finally takes the request internally to the website’s dedicated server parked on the IP address, 42.120.158.67
+* Step 7: The server finally takes the request internally to the website’s dedicated server parked on the IP address, 42.120.158.67
  
-: Step 8: The response to your request is sent back through the same channel and finally appears on your screen.
+* Step 8: The response to your request is sent back through the same channel and finally appears on your screen.
  
 Each of these channels are run by various companies and governments and have the capability to monitor your activities at each step if the website is not encrypted, i.e. if it is not SSL certified and has no HTTPS
  
@@ -83,13 +83,13 @@ If you want to look for IP addresses of other websites that you visit, you can g
  
 Let’s say you want to check the IP address of a website Korawa.com
 
-: Step 1: Type the domain name of the website eg. korawa.com, gdqpzhx.com or any other website.
+* Step 1: Type the domain name of the website eg. korawa.com, gdqpzhx.com or any other website.
   
-: Step 2: Type the characters on the right in the form
+* Step 2: Type the characters on the right in the form
  
-: Step 3: Click on Submit
+* Step 3: Click on Submit
  
-: Step 4: Check your result.
+* Step 4: Check your result.
   
 The result will show the website’s IP address, the web server and where it’s hosted with some other information.
  
