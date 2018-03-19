@@ -21,7 +21,7 @@
  
 ## Section 1 – Understanding how the Internet works, basic concepts and best practices ##
  
-I. Internet 101
+### I. Internet 101
 
 Goals: 
 -	To understand the basics of how the internet works and understand what each of the layers in the network does.
@@ -78,7 +78,7 @@ Sample Traceroute from Dharamsala to Cybersuperhero.net
  
 Each of these channels are run by various companies and governments and have the capability to monitor your activities at each step if the website is not encrypted, i.e. if it is not SSL certified and has no HTTPS
  
-If you want to look for IP addresses of other websites that you visit, you can go to getit.com.
+If you want to look for IP addresses of other websites that you visit, you can go to [getit.com](https://getit.com).
  
 Let’s say you want to check the IP address of a website [korawa](https://Korawa.com)
 
@@ -105,7 +105,7 @@ http://youtu.be/2ZUxoi7YNgs *This little cartoon illustrating how DNS works is l
  
  
  
-II. HTTP and HTTPS
+### II. HTTP and HTTPS
 
 Goals: 
 -	To understand the basics and importance of SSL encryption on the Internet.
@@ -151,7 +151,7 @@ This is an example of a website that doesn’t have HTTPS and the browser should
  
 You can show participants EFF’s HTTPS Everywhere and they can download if they want: https://www.eff.org/https-everywhere
  
-III. Browsers
+### III. Browsers
 
 Goals: 
 -	Understand how a browser window can make you vulnerable to viruses, online attacks and spying.
@@ -217,7 +217,7 @@ Recommendation: If you don’t want anyone to know about the websites you have v
 2) Use a proxy/vpn which we will explain in the coming lessons.
 3) Use HTTPS-based websites only.
 
-IV. Understanding OS
+### IV. Understanding OS
 
 Goals: 
 -	Understand the key differences between Windows, Linux and Mac OS as they relate to security threats.
@@ -236,7 +236,7 @@ Windows is the most commonly used operating system [85% approx] in the world and
 Question: Do malware infect Windows only?
 Explain: Malware looks for vulnerabilities and security holes in a computer and each OS mentioned above can have vulnerabilities. In terms of malware, we will go in details in the next section.
  
-V. Email
+### V. Email
 
 Goals: 
 -	Understand that security should be a key priority for the choice of email account
@@ -287,7 +287,7 @@ Ask: which apps you use and which you don’t? Try to find out what all the apps
  
 Show: Other online accounts i.e. Facebook, Twitter, Dropbox. Depending on what people use, point out the security settings such as 2-step verification, if available, and other app permissions.
  
-VI. Best Practices
+### VI. Best Practices
  
 A. Attachments
 
